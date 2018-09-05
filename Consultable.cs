@@ -1,0 +1,3 @@
+interface Consultable{
+	string consultarDatos();
+}
